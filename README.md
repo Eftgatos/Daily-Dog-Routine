@@ -1,13 +1,15 @@
 # Daily-Dog-Routine
+* Petting
 * Early morning walk
   * Exercise and stimulation games
+* Petting
 * Bath and general cleaning after walk
+* Sleep
 * Feeding time
-* Afternoon exercise 
+* Sleep
+* Afternoon exercise
+* Petting
 * Late night walk
-* Petting at least 3 times a day
+* Petting 
 * Watch some TV 
-*Sleep
-*Sleep
-*Sleep
-
+* Sleep
